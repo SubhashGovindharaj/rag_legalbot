@@ -41,11 +41,4 @@ Copy code
 streamlit run app.py
 Access the App: Open your browser and go to http://localhost:8501.
 
-File Structure
-bash
-Copy code
-real_time_face_recognition/
-├── app.py                 # Main application script
-├── requirements.txt       # Required Python libraries
-├── README.md              # Documentation
-└── assets/                # (Optional) Additional resources
+
